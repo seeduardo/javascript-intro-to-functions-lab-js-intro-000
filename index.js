@@ -17,3 +17,5 @@ console.log(string.toLowerCase())
 var lowercase = "hello"
 var uppercase = "HELLO"
 var granlove = "I love you, Grandma."
+
+function 
